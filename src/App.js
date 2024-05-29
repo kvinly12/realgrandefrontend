@@ -14,7 +14,7 @@ import Enquiries from './components/Enquiries';
 function App() {
 
   let [housesData,setHousesData] = useState([]);
-
+  //this is to trigger jenkins
   // get the data here, using fetch
   //async await with fetch and get json
   // console.log to check if data is correct
